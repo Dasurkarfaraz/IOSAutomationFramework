@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="com.check.func.resiteruser">
+        <methods>
+          <include name="configBm"/>
+          <include name="configAm"/>
+          <include name="register"/>
+          <include name="beforeSuite"/>
+          <include name="configBc"/>
+        </methods>
+      </class> <!-- com.check.func.resiteruser -->
+      <class name="com.createIncident.ios.CreateIncident_112">
+        <methods>
+          <include name="configBm"/>
+          <include name="configAm"/>
+          <include name="beforeSuite"/>
+          <include name="ohioautomation" invocation-numbers="0"/>
+          <include name="configBc"/>
+        </methods>
+      </class> <!-- com.createIncident.ios.CreateIncident_112 -->
+      <class name="com.check.func.incidentschecktest">
+        <methods>
+          <include name="incidentcheck"/>
+          <include name="configBm"/>
+          <include name="configAm"/>
+          <include name="incidentsearch"/>
+          <include name="beforeSuite"/>
+          <include name="configBc"/>
+        </methods>
+      </class> <!-- com.check.func.incidentschecktest -->
+      <class name="com.createIncident.ios.Createincident_111">
+        <methods>
+          <include name="configBm"/>
+          <include name="configAm"/>
+          <include name="doLogin" invocation-numbers="0"/>
+          <include name="beforeSuite"/>
+          <include name="configBc"/>
+        </methods>
+      </class> <!-- com.createIncident.ios.Createincident_111 -->
+      <class name="com.check.func.myFDTabtest">
+        <methods>
+          <include name="configBm"/>
+          <include name="configAm"/>
+          <include name="ts01Fdcheck"/>
+          <include name="beforeSuite"/>
+          <include name="configBc"/>
+        </methods>
+      </class> <!-- com.check.func.myFDTabtest -->
+      <class name="registrationwithinapp.registrationappogin2">
+        <methods>
+          <include name="configBm"/>
+          <include name="configAm"/>
+          <include name="beforeSuite"/>
+          <include name="configBc"/>
+          <include name="ohioappregistrationpage" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- registrationwithinapp.registrationappogin2 -->
+      <class name="registrationwithinapp.registrationappogin">
+        <methods>
+          <include name="configBm"/>
+          <include name="configAm"/>
+          <include name="ohioappregistrationpage"/>
+          <include name="beforeSuite"/>
+          <include name="configBc"/>
+        </methods>
+      </class> <!-- registrationwithinapp.registrationappogin -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

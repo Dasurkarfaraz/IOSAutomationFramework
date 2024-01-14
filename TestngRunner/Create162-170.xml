@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Incident Suite">
+  <test name="Incident Test Case">
+    <classes>
+  <class name="com.createIncident.ios.CreateIncident_160" />
+     <class name="com.createIncident.ios.CreateIncident_161" />
+     <class name="com.createIncident.ios.CreateIncident_162" /> 
+     <class name="com.createIncident.ios.CreateIncident_163" /> 
+     <class name="com.createIncident.ios.CreateIncident_164" /> 
+     
+     
+     
+
+    </classes>
+  </test>
+</suite>

@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Test Suite">
+  
+ <suite-files>
+        <suite-file path="Create120-123.xml" />
+        <suite-file path="Create111-118.xml"/>
+        <suite-file path="Create130-138.xml" />
+        <suite-file path="Create141-143.xml"/>
+        <suite-file path="Create150-160.xml"/>
+        <suite-file path="Create162-170.xml"/>
+        <suite-file path="Create171-173.xml"/>
+ </suite-files>
+</suite>

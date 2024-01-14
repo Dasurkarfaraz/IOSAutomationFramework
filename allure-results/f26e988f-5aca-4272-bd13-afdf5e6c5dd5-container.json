@@ -1,0 +1,1 @@
+{"uuid":"f26e988f-5aca-4272-bd13-afdf5e6c5dd5","name":"Base.BaseTest.configBm","children":["0e01833b-049b-4ffd-a8b6-fd17f82b69c7"],"description":"","befores":[{"name":"configBm","status":"broken","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1699216963966,"stop":1699216963966}],"afters":[],"start":1699216963966,"stop":1699216963967}

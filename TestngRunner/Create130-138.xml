@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Incident Suite">
+  <test name="Incident Test Case">
+    <classes>
+    <class name="com.createIncident.ios.CreateIncident_130" />
+     <class name="com.createIncident.ios.CreateIncident_131" />
+     <class name="com.createIncident.ios.CreateIncident_132" />
+     <class name="com.createIncident.ios.CreateIncident_133" />
+     <class name="com.createIncident.ios.CreateIncident_134" />
+     <class name="com.createIncident.ios.CreateIncident_135" />
+     <class name="com.createIncident.ios.CreateIncident_136" />
+     <class name="com.createIncident.ios.CreateIncident_137" />
+     <class name="com.createIncident.ios.CreateIncident_138" />
+
+    </classes>
+  </test>
+</suite>
